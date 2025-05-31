@@ -17,7 +17,7 @@ To run the game, you must download the OpenGL zip. Extract it. In a folder of yo
 7. Left Mouse click  ->  for answering quiz questions
 8. Right Mouse click  ->  for zooming in
 
-# Condition
+# Conditions
 
 1. To win the game you have to give a quiz and you will have to answer all the questions correctly
 2. If you answer wrong then you have to pay and it's gonna cost you a limb. So, if you love your limbs, answer carefully.
